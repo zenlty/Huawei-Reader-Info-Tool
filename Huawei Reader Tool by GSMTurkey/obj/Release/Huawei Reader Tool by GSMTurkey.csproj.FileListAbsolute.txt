@@ -1,0 +1,49 @@
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\Huawei Reader Tool by GSMTurkey.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\Huawei Reader Tool by GSMTurkey.exe
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\Huawei Reader Tool by GSMTurkey.pdb
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Data.v17.1.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Utils.v17.1.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\MaterialSkin.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Data.v17.1.xml
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Utils.v17.1.xml
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\bin\Release\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\obj\Release\Huawei Reader Tool by GSMTurkey.csprojAssemblyReference.cache
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\obj\Release\Huawei_Reader_Tool_by_GSMTurkey.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\obj\Release\Huawei_Reader_Tool_by_GSMTurkey.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\obj\Release\Huawei Reader Tool by GSMTurkey.csproj.GenerateResource.cache
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\obj\Release\Huawei Reader Tool by GSMTurkey.exe.licenses
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\obj\Release\Huawei Reader Tool by GSMTurkey.csproj.CoreCompileInputs.cache
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\obj\Release\Huawei Reader Tool by GSMTurkey.csproj.CopyComplete
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\obj\Release\Huawei Reader Tool by GSMTurkey.exe
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Tool Huawei Module\Huawei Reader Tool by GSMTurkey\Huawei Reader Tool by GSMTurkey\obj\Release\Huawei Reader Tool by GSMTurkey.pdb
